@@ -5,7 +5,7 @@ A simple Solr Client
 ## Usage
 
 ```clojure
-[clj-solr "1.0"]
+[clj-solr "1.2"]
 ```
 
 ```clojure
