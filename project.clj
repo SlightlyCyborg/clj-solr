@@ -1,4 +1,4 @@
-(defproject clj-solr "1.2"
+(defproject clj-solr "1.3.0-alpha"
   :description "A simple solr client"
   :url "https://github.com/SlightlyCyborg/clj-solr"
   :license {:name "Eclipse Public License"
